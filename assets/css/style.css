@@ -9,3 +9,21 @@
 a {
     text-decoration: none;
 }
+
+body {
+    background: #141414;
+}
+
+.grid {
+    width: 70%;
+    margin: 150px auto 0;
+}
+
+.item {
+    width: 220px;
+    height: 220px;
+
+    background: #fff;
+
+    transition: 0.5s;
+}
